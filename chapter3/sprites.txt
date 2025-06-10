@@ -1,0 +1,11 @@
+ЭТИ СПРАЙТЫ УЖЕ ПЕРЕВЕДЕНЫ:
+
+spr_dw_tv_time
+spr_dw_tv_time_lights
+spr_dw_tv_time_sample
+spr_dw_tv_time_funnytext
+spr_dw_interstitial_poster_next
+spr_dw_interstitial_poster_green
+bg_dw_music_ext_original
+spr_castle_cafe
+spr_funnytext_free
